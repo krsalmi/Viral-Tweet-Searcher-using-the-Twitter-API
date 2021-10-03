@@ -6,7 +6,7 @@ because the interface always requires some sort of authentication, a process I w
 The program I wrote searches for viral tweets (in this case meaning tweets that have been retweeted
 at least 20 times) on a particular subject, which is obtained from the command line. If no command line argument is given, the program will search for
 viral tweets regarding the 'Tom Girardi' scandal, which is heavily covered on the hit TV show, the
-Real Housewives of Beverly Hills.
+*Real Housewives of Beverly Hills*.
 
 ## How...
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...does it work?
