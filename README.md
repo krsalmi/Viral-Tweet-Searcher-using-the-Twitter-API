@@ -9,7 +9,7 @@ viral tweets regarding the 'Tom Girardi' scandal, which is heavily covered on th
 Real Housewives of Beverly Hills.
 
 ## How...
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;does it work?
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...does it work?
 If command line arguments are given, the first one after the name of the program will be saved as the phrase to be searched for. If no
 arguments are given, 'search_for' will be "Tom Girardi". After creating the url needed for the search (which will allow the search for a random sample of 
 current tweets) and defining a dictionary of parameters (which includes,
@@ -28,7 +28,7 @@ Next, the list of saved retweeted tweets is looped through again and a new conne
 and name of the author of each tweet. Finally, the results will be formatted and printed in the following format: @username, name, date and time of tweet, the 
 tweet itself and the number of times it was retweeted.
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to use this program?
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...to use this program?
 First of all, to use this program, you need a Twitter API developer bearer token.
 To use your token, run the following line in your terminal:
 `export "BEARER_TOKEN"="ABCD......7kdfhlk3N"` (your bearer token in its entirety)
