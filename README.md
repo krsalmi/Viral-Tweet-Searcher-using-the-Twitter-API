@@ -35,3 +35,6 @@ To use your token, run the following line in your terminal:
   
 To execute the program in default "Tom Girardi" mode, run `python3 viral_tweet_searcher.py`
 To search for something of your own, run `python3 viral_tweet_searcher "I love Taco Bell"` (or whatever you feel like searching for).
+
+Here's an example of what the default search might look like:
+![screenshot of the program output](screenshot_of_example_output/tom.png)
