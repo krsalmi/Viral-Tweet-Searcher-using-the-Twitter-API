@@ -13,7 +13,7 @@ import dateutil.parser
 
 # To use this program, you need a Twitter API developer bearer token.
 # To use your token, run the following line in your terminal:
-# export "BEARER_TOKEN"="AAAAA......7kdfhlk3N" (your bearer token in its entirety)
+# export "BEARER_TOKEN"="ABCDE......7kdfhlk3N" (your bearer token in its entirety)
 
 # The program takes a while to execute, because connecting to the twitter API happens
 # multiple times and volume of tweets is large.
