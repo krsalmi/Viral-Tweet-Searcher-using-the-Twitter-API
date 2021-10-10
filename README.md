@@ -1,4 +1,4 @@
-# Viral-Tweet-Searcher-using-the-Twitter-API
+# Viral Tweet Searcher using the Twitter API
 ## What and Why?
 I created this program while I was studying APIs and how they work. I decided to take a closer look at the Twitter API 
 because the interface always requires some sort of authentication, a process I was also interested to learn more about.  
